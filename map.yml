@@ -1,0 +1,4 @@
+map_name: U-Boats1939_v1.0
+games:
+- {game_name: U-Boat's 1939, file_name: U-Boats1939_v1.0.xml}
+version: 0
